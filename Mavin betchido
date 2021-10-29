@@ -1,0 +1,7 @@
+echo"#Marvin-betchido":
+gif init
+git add README. md
+git commit -m "first  comm
+git branch -M main
+Got remote add origin http
+git push -u origin
